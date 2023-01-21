@@ -10,7 +10,7 @@ The animated checkbox component has been published as [an NPM module `react-nati
 
 ## Tutorial
 
-Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="32" />](https://youtu.be/k2h7usLLBhY)
+Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="32" />](https://youtube.com)
 
 ## Stack
 
@@ -50,6 +50,3 @@ yarn start
 
 ---
 
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
