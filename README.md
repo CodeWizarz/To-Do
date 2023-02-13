@@ -8,10 +8,6 @@ The animated checkbox component has been published as [an NPM module `react-nati
 
 ![demo](./doc/checkbox.gif)
 
-## Tutorial
-
-Watch how I built this website on YouTube: [<img src="./doc/youtube.png" width="32" />](https://youtube.com)
-
 ## Stack
 
 - [React Native](https://reactnative.dev/) - ReactJS-based framework that can use native platform capabilities
